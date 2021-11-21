@@ -1,0 +1,4 @@
+- 👋 Hello, I'm @JiChong1992
+- 👀 I'm interested in AI applications to cosmetic industry.
+- 🌱 I'm currently learning ML realisation on python.
+- 📫 You can get in touch with me via sending e-mail to 1253259900@qq.com.
