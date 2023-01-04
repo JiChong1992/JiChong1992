@@ -1,3 +1,0 @@
-- 👋Engineering master in Beijing Technology and Business University.
-- 👀 AI and Cheminformatics applications in cosmetic industry.
-- 📫 You can get in touch with me via sending emails to 1253259900@qq.com.
